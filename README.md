@@ -1,6 +1,6 @@
 # Olá! Eu sou o Thiago Madeira
 
-![Foto de Perfil](https://avatars.githubusercontent.com/u/192131485?s=96&v=4)
+
 
 Desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados.
 
