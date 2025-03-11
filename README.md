@@ -2,13 +2,13 @@
 
 
 
-Desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados.
-
+ ## 🖥️ Apaixonado por tecnologia e inovação em constante aprendizado. 💻📲
+- 🎵🎸 Sou músico e gosto muito de artes marciais 🥊
 - 🌍 Praia Grande, São Paulo - Brasil
 - 🎓 Formado em ADS pela Universidade Cruzeiro do Sul
 - 🌱 Atualmente aprendendo: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
 - 📫 Como me encontrar: thiago.vidanova@hotmail.com
-- ⚡🎸 Também sou músico e gosto muito de artes marciais
+
 
 ## 🚀 Minhas Tecnologias
 
