@@ -2,7 +2,7 @@
 
 
 
- ## 🖥️ Apaixonado por tecnologia e inovação em constante aprendizado. 💻📲
+ ## 🖥️ Apaixonado por tecnologia e inovação, em constante aprendizado. 💻📲
 - 🎵🎸 Sou músico e gosto muito de artes marciais 🥊
 - 🌍 Praia Grande, São Paulo - Brasil
 - 🎓 Formado em ADS pela Universidade Cruzeiro do Sul
