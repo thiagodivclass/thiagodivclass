@@ -27,7 +27,13 @@ Desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos d
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiagodivclass&show_icons=true&theme=radical)
+
+
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodivclass&layout=compact&theme=radical)
+
+
+
+
 
 
 ## 🌐 Conecte-se Comigo
