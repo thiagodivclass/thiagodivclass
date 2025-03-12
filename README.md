@@ -36,7 +36,7 @@
 
 
 
-## 🌐 Conecte-se Comigo
+## 🌐 Minhas redes:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomadeirawork/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thiagomadeiraa/)
